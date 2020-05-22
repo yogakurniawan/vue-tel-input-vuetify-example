@@ -1,4 +1,4 @@
-# test-vuetify
+# vue-tel-input-vuetify-example
 
 ## Project setup
 ```
