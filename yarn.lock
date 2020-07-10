@@ -922,9 +922,9 @@
   integrity sha512-tHq6qdbT9U1IRSGf14CL0pUlULksvY9OZ+5eEgl1N7t+OA3tGvNpxJCzuKQlsNgCVwbAs670L1vcVQi8j9HjnA==
 
 "@types/node@*":
-  version "14.0.21"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.21.tgz#c84005e3f43b7e19a7374d47d5c411039da59231"
-  integrity sha512-kmfWRnh81BrOfQ2Bn3xXCkoB6PLNsJlHhliYvkPa5UL6nmMHkANm358zVpO7TW6CDe9i267pkS/Id65OKL8+Ug==
+  version "14.0.22"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.0.22.tgz#23ea4d88189cec7d58f9e6b66f786b215eb61bdc"
+  integrity sha512-emeGcJvdiZ4Z3ohbmw93E/64jRzUHAItSHt8nF7M4TGgQTiWqFVGB8KNpLGFmUHmHLvjvBgFwVlqNcq+VuGv9g==
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.0"
@@ -4339,9 +4339,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 inquirer@^7.0.0, inquirer@^7.1.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-7.3.0.tgz#aa3e7cb0c18a410c3c16cdd2bc9dcbe83c4d333e"
-  integrity sha512-K+LZp6L/6eE5swqIcVXrxl21aGDU4S50gKH0/d96OMQnSBCyGyZl/oZhbkVmdp5sBoINHd4xZvFSARh2dk6DWA==
+  version "7.3.1"
+  resolved "https://registry.yarnpkg.com/inquirer/-/inquirer-7.3.1.tgz#ac6aba1abdfdd5ad34e7069370411edba17f6439"
+  integrity sha512-/+vOpHQHhoh90Znev8BXiuw1TDQ7IDxWsQnFafUEoK5+4uN5Eoz1p+3GqOj/NtzEi9VzWKQcV9Bm+i8moxedsA==
   dependencies:
     ansi-escapes "^4.2.1"
     chalk "^4.1.0"
@@ -4349,7 +4349,7 @@ inquirer@^7.0.0, inquirer@^7.1.0:
     cli-width "^3.0.0"
     external-editor "^3.0.3"
     figures "^3.0.0"
-    lodash "^4.17.15"
+    lodash "^4.17.16"
     mute-stream "0.0.8"
     run-async "^2.4.0"
     rxjs "^6.6.0"
@@ -4960,7 +4960,7 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3:
+lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.16, lodash@^4.17.3:
   version "4.17.19"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
   integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
@@ -7959,10 +7959,10 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-tel-input-vuetify@^1.1.9:
-  version "1.1.9"
-  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.1.9.tgz#4225b6487f5442d3e5b9996eb1ce1d61e0068e7c"
-  integrity sha512-Ls2q/sYuHCkjFC+hmFj8jxwNpoKLAqyWG+bNxMFAjQFIPa0umMg8u41zKVtnXbG54e6+JH3kVVCU8nuRi+x/UA==
+vue-tel-input-vuetify@^1.1.10:
+  version "1.1.10"
+  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.1.10.tgz#3978d8da8983ad444076fa2776a31d7dfa6bf228"
+  integrity sha512-NVZ0D7jz17S+0GcyZa8H3CFOJeNsT+5AU4MqDnpkmJfzKkQyA9Oxa7sO1Vtr6ySuz2Kbj75yfDsPsw5bmChLQQ==
   dependencies:
     awesome-phonenumber "^2.15.0"
     vuetify "^2.2.11"
