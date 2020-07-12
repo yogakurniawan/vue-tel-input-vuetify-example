@@ -33,8 +33,13 @@
 </template>
 
 <script>
+import VueTelInputVuetify from "vue-tel-input-vuetify/lib";
+
 export default {
   name: "Example",
+  components: {
+    VueTelInputVuetify,
+  },
   data() {
     return {
       phone: {
