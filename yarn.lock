@@ -7939,10 +7939,10 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-tel-input-vuetify@^1.2.3:
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.2.3.tgz#cfc5ece75a486379392a879c33556dd62e586ea1"
-  integrity sha512-NWNUKY2We3TRMkI4b9JcEuJqgW0CSEerIWTrCy34cDZk3AB6Xn81ku9JUPNVezCGnAp51jaVxaxBCxAKlX05cg==
+vue-tel-input-vuetify@^1.2.4:
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.2.4.tgz#5ed337efb44d8d7e9ee6b738c08ac2408ea70729"
+  integrity sha512-+em+z2uBQETmaQTPSUplb2CQuchAwCMC1bYyc54sHsZKT3SLYXoC3WacNTX5gRf2vmrXt+nSRhIhbjQRuNP6qw==
   dependencies:
     awesome-phonenumber "^2.15.0"
     vuetify "^2.2.11"
