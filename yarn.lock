@@ -7939,13 +7939,14 @@ vue-style-loader@^4.1.0, vue-style-loader@^4.1.2:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-tel-input-vuetify@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.2.4.tgz#5ed337efb44d8d7e9ee6b738c08ac2408ea70729"
-  integrity sha512-+em+z2uBQETmaQTPSUplb2CQuchAwCMC1bYyc54sHsZKT3SLYXoC3WacNTX5gRf2vmrXt+nSRhIhbjQRuNP6qw==
+vue-tel-input-vuetify@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/vue-tel-input-vuetify/-/vue-tel-input-vuetify-1.2.5.tgz#22cee4818eb019dcf073674b386234e79981d582"
+  integrity sha512-c5qCP14pUTpQ32TUOa3bFJqCGDCZrBWnvsGtdPxK7kqHa2Bbj6WHGnVWtpz5QmKrWtAfYafgkMvuKSKcGSXdZQ==
   dependencies:
     awesome-phonenumber "^2.15.0"
     vuetify "^2.2.11"
+    whatwg-fetch "^3.2.0"
 
 vue-template-compiler@^2.6.11:
   version "2.6.11"
@@ -8159,6 +8160,11 @@ websocket-extensions@>=0.1.1:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
   integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
+
+whatwg-fetch@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-3.2.0.tgz#8e134f701f0a4ab5fda82626f113e2b647fd16dc"
+  integrity sha512-SdGPoQMMnzVYThUbSrEvqTlkvC1Ux27NehaJ/GUHBfNrh5Mjg+1/uRyFMwVnxO2MrikMWvWAqUGgQOfVU4hT7w==
 
 which-module@^2.0.0:
   version "2.0.0"
