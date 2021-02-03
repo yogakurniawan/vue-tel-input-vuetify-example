@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
-    "vue-tel-input-vuetify": "^1.2.5",
+    "vue-tel-input-vuetify": "^1.2.16",
     "vuetify": "^2.2.11"
   },
   "devDependencies": {
